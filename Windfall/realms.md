@@ -146,4 +146,3 @@
     - Hong Kong 是一座由玩家自行形成的聚集地并发展的城镇
     - 励志要成为服务器里最具商业化的都市
     - 建筑风格多样化
-    - [论坛介绍贴](https://g.sotap.org/d/49-welcome-to-hongkong)
